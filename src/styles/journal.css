@@ -1,0 +1,16 @@
+#journalDate {
+    display: flex;
+    flex-direction: column;
+}
+#conceptsCovered {
+    display: flex;
+    flex-direction: column;
+}
+#journalEntry {
+    display: flex;
+    flex-direction: column;
+}
+#moodForTheDay {
+    display: flex;
+    flex-direction: column;
+}
